@@ -1,3 +1,3 @@
-# practice-repoo
+# DEMO
 
 Some description.
